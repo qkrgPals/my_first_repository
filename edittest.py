@@ -28,5 +28,3 @@ chars = "hello world"
 print(chars)
 
 print("number : ", number_school, "name : ", str_name, "bool : ", bool_view, "float : ", flt_pi, "charcter : ", char_element, "charcter : ", chars)
-
-git status
